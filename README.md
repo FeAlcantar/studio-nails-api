@@ -1,4 +1,4 @@
-# 💅 Studio Dani Nails - Sistema de Agendamento Inteligente
+# 💅 Studio Nails - Sistema de Agendamento Inteligente
 
 Sistema de agendamento *mobile-first* desenvolvido para profissionais autônomos do setor de beleza. O projeto permite que clientes agendem serviços online de forma visual e fluida, gerando links dinâmicos para que a profissional gerencie e confirme os atendimentos via WhatsApp com custo zero de infraestrutura e API.
 
